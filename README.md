@@ -1,6 +1,6 @@
 # DNT2
 
-This is a curated selection of new HCMV TB40/E infected NT2 and D-NT2 datasets for viewing in the [UCSC Genome Browser](http://www.genome.ucsc.edu/).
+This is a curated selection of new HCMV infected --- datasets for viewing in the [UCSC Genome Browser](http://www.genome.ucsc.edu/).
 
 # Usage:
 
