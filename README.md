@@ -7,7 +7,7 @@ This is a curated selection of new HCMV TB40/E infected NT2 and D-NT2 datasets f
     First go to the UCSC Genome Browser.
     Then, navigate to My Data > Track Hubs.
     Select the My Hubs tab.
-    Finally, paste https://raw.githubusercontent.com/meierjl/NT2-and-D-NT2/master/hub.txt into the URL field.
+    Finally, paste --- into the URL field.
 
 You should now be able to select the KF297339.1 genome and view these tracks!
 
