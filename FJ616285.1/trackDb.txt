@@ -737,5 +737,79 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+	 
+track 11
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 11
+longLabel 11
+	 
+track 11_FW
+parent 11
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2/master/FJ616285.1/DNT2-PRO-Seq/11-dedup-FW-FJ616285.1.bw
+longLabel No dTAG Flavo
+shortLabel No dTAG Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 11_RV
+parent 11
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2/master/FJ616285.1/DNT2-PRO-Seq/11-dedup-RV-FJ616285.1.bw
+longLabel No dTAG Flavo
+shortLabel No dTAG Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
 
+#############
+	 
+track 12
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12
+longLabel 12
+	 
+track 6_FW
+parent 6
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12-dedup-FW-FJ616285.1.bw
+longLabel dTAG Flavo
+shortLabel dTAG Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12V
+parent 12
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12-dedup-RV-FJ616285.1.bw
+longLabel dTAG Flavo
+shortLabel dTAG Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
 
+#############
