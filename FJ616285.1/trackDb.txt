@@ -784,8 +784,8 @@ visibility full
 shortLabel 12
 longLabel 12
 	 
-track 6_FW
-parent 6
+track 12_FW
+parent 12
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2/master/FJ616285.1/DNT2-PRO-Seq/12-dedup-FW-FJ616285.1.bw
@@ -798,7 +798,7 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 12V
+track 12_RV
 parent 12
 type bigWig 0 1000
 visibility full
